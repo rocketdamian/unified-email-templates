@@ -43,6 +43,10 @@ img {
   clear: both;
   display: block; }
 
+.no-margin {
+  margin: 0px!important;
+}
+
 center {
   width: 100%;
   min-width: 580px; }
@@ -856,7 +860,7 @@ p,
 td,
 th,
 a {
-  color: #0a0a0a;
+  color: #717075;
   font-family: 'Montserrat' ,Helvetica, Arial, sans-serif;
   font-weight: 300!important;
   padding: 0;
