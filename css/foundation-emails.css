@@ -98,10 +98,10 @@ table, tr, td {
 }
 
 .footer-fb-logo {
-  position: absolute;
-  right: 16px;
-  top: 16px;
-  z-index: 10;
+  position: absolute!important;
+  right: 16px!important;
+  top: 16px!important;
+  z-index: 10!important;
 }
 
 table.body {
@@ -858,7 +858,7 @@ th,
 a {
   color: #0a0a0a;
   font-family: 'Montserrat' ,Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 300!important;
   padding: 0;
   margin: 0;
   Margin: 0;
@@ -874,7 +874,7 @@ h6 {
   color: inherit;
   word-wrap: normal;
   font-family: 'Montserrat' ,Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 800!important;
   margin-bottom: 10px;
   Margin-bottom: 10px; }
 
